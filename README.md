@@ -1,8 +1,10 @@
 noise-repellent
-ref: https://github.com/lucianodato/noise-repellent.git
 -------
 broadband noise reduction.
-
+-------
+ref: 
+https://github.com/lucianodato/noise-repellent.git
+-------
 Features
 -------
 * Spectral gating and spectral subtraction suppression rule
